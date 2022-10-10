@@ -22,7 +22,7 @@ Conversion notes:
 
 (this is a test conversion into Markdown of the official Catalyst guidelines using a [Doc to Markdown add-on for Google Doc](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607))
 
-Normally you can "easily" edit this document and create pull requests on which people can comment and review the changes just like for actual source code.
+Normally you can "easily" edit this document and create pull requests on which people can comment and review the changes just like for actual source code. Go ahead and play with it so we can see if we can actually use Github directly.
 
 ## Proposal Assessor Guide
 
